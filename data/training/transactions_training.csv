@@ -1,0 +1,222 @@
+description,category,data_source
+ZOMATO ORDER 4821,Food & Dining,synthetic_demo
+SWIGGY INSTAMART ORDER,Groceries,synthetic_demo
+DOMINOS PIZZA DELIVERY,Food & Dining,synthetic_demo
+MCDONALDS FAMILY MEAL,Food & Dining,synthetic_demo
+KFC CHICKEN BUCKET,Food & Dining,synthetic_demo
+STARBUCKS COFFEE MUMBAI,Food & Dining,synthetic_demo
+CAFE COFFEE DAY INDIRANAGAR,Food & Dining,synthetic_demo
+BIRYANI HOUSE ORDER,Food & Dining,synthetic_demo
+HALDILRAMS SWEETS,Food & Dining,synthetic_demo
+PIZZA HUT KORAMANGALA,Food & Dining,synthetic_demo
+BLINKIT GROCERY DELIVERY,Groceries,synthetic_demo
+BIGBASKET MONTHLY GROCERY,Groceries,synthetic_demo
+ZEPTO QUICK DELIVERY,Groceries,synthetic_demo
+FOOD COURT PAYMENT,Food & Dining,synthetic_demo
+BAKERY CAKE ORDER,Food & Dining,synthetic_demo
+UBER RIDE AIRPORT,Transport,synthetic_demo
+OLA CABS CITY RIDE,Transport,synthetic_demo
+RAPIDO BIKE RIDE,Transport,synthetic_demo
+METRO CARD RECHARGE,Transport,synthetic_demo
+INDIAN OIL PETROL PUMP,Transport,synthetic_demo
+HP PETROL FUEL FILL,Transport,synthetic_demo
+TOLL PLAZA FASTAG,Transport,synthetic_demo
+PARKING CHARGES MALL,Transport,synthetic_demo
+BMTC BUS PASS,Transport,synthetic_demo
+SHELL FUEL STATION,Transport,synthetic_demo
+CAB PAYMENT TO DRIVER,Transport,synthetic_demo
+AUTO RICKSHAW FARE,Transport,synthetic_demo
+UBER AUTO RIDE,Transport,synthetic_demo
+OLA ELECTRIC SCOOTER,Transport,synthetic_demo
+FASTAG WALLET RECHARGE,Transport,synthetic_demo
+AMAZON MARKETPLACE ORDER,Shopping,synthetic_demo
+FLIPKART MOBILE PURCHASE,Shopping,synthetic_demo
+MYNTRA FASHION ORDER,Shopping,synthetic_demo
+AJIO CLOTHING SALE,Shopping,synthetic_demo
+MEESHO HOME PRODUCTS,Shopping,synthetic_demo
+SNAPDEAL ELECTRONICS,Shopping,synthetic_demo
+NYKAA BEAUTY ORDER,Shopping,synthetic_demo
+DMART SUPERMARKET,Groceries,synthetic_demo
+CROMA ELECTRONICS STORE,Shopping,synthetic_demo
+IKEA HOME FURNISHING,Shopping,synthetic_demo
+DECATHLON SPORTS STORE,Shopping,synthetic_demo
+RELIANCE TRENDS APPAREL,Shopping,synthetic_demo
+TATA CLIQ SHOPPING,Shopping,synthetic_demo
+LIFESTYLE RETAIL STORE,Shopping,synthetic_demo
+WESTside RETAIL PURCHASE,Shopping,synthetic_demo
+NETFLIX MONTHLY SUBSCRIPTION,Entertainment,synthetic_demo
+DISNEY HOTSTAR ANNUAL PLAN,Entertainment,synthetic_demo
+SPOTIFY PREMIUM MUSIC,Entertainment,synthetic_demo
+PRIME VIDEO SUBSCRIPTION,Entertainment,synthetic_demo
+BOOKMYSHOW MOVIE TICKETS,Entertainment,synthetic_demo
+PVR CINEMA TICKET,Entertainment,synthetic_demo
+INOX MOVIE SHOW,Entertainment,synthetic_demo
+YOUTUBE PREMIUM PLAN,Entertainment,synthetic_demo
+ONLINE GAMING PURCHASE,Entertainment,synthetic_demo
+DISNEY PLUS SUBSCRIPTION,Entertainment,synthetic_demo
+MUSIC STREAMING PLAN,Entertainment,synthetic_demo
+CINEMA FOOD COMBO,Entertainment,synthetic_demo
+AUDITORIUM EVENT TICKET,Entertainment,synthetic_demo
+GAME STORE PURCHASE,Entertainment,synthetic_demo
+AMUSEMENT PARK TICKETS,Entertainment,synthetic_demo
+ELECTRICITY BILL PAYMENT,Bills & Utilities,synthetic_demo
+BESCOM POWER BILL,Bills & Utilities,synthetic_demo
+TATA POWER MONTHLY BILL,Bills & Utilities,synthetic_demo
+AIRTEL POSTPAID BILL,Bills & Utilities,synthetic_demo
+JIO MOBILE RECHARGE,Bills & Utilities,synthetic_demo
+VODAFONE VI POSTPAID,Bills & Utilities,synthetic_demo
+BROADBAND INTERNET BILL,Bills & Utilities,synthetic_demo
+GAS BILL PAYMENT,Bills & Utilities,synthetic_demo
+WATER BILL PAYMENT,Bills & Utilities,synthetic_demo
+DTH RECHARGE TATA PLAY,Bills & Utilities,synthetic_demo
+MSEDCL ELECTRICITY,Bills & Utilities,synthetic_demo
+MOBILE RECHARGE PREPAID,Bills & Utilities,synthetic_demo
+INTERNET SERVICE PROVIDER,Bills & Utilities,synthetic_demo
+PIPED GAS CONNECTION BILL,Bills & Utilities,synthetic_demo
+CABLE TV MONTHLY RECHARGE,Bills & Utilities,synthetic_demo
+APOLLO PHARMACY MEDICINES,Healthcare,synthetic_demo
+FORTIS HOSPITAL CONSULTATION,Healthcare,synthetic_demo
+MEDICAL STORE PURCHASE,Healthcare,synthetic_demo
+1MG ONLINE PHARMACY,Healthcare,synthetic_demo
+NETMEDS TABLET ORDER,Healthcare,synthetic_demo
+DIAGNOSTIC LAB TEST,Healthcare,synthetic_demo
+DENTAL CLINIC VISIT,Healthcare,synthetic_demo
+MAX HOSPITAL TREATMENT,Healthcare,synthetic_demo
+PHARMA DISTRIBUTOR PAYMENT,Healthcare,synthetic_demo
+HEALTH CHECKUP PACKAGE,Healthcare,synthetic_demo
+EYE CLINIC CONSULTATION,Healthcare,synthetic_demo
+DOCTOR CONSULTATION FEE,Healthcare,synthetic_demo
+PATHOLOGY LAB REPORT,Healthcare,synthetic_demo
+MEDPLUS PHARMACY,Healthcare,synthetic_demo
+VACCINATION CENTER PAYMENT,Healthcare,synthetic_demo
+SCHOOL ANNUAL FEE,Education,synthetic_demo
+COLLEGE TUITION PAYMENT,Education,synthetic_demo
+UDEMY COURSE PURCHASE,Education,synthetic_demo
+COURSERA SPECIALIZATION,Education,synthetic_demo
+BYJUS LEARNING APP,Education,synthetic_demo
+TUITION CLASSES MONTHLY,Education,synthetic_demo
+UNIVERSITY EXAM FEE,Education,synthetic_demo
+ONLINE EDUCATION PLATFORM,Education,synthetic_demo
+SCHOOL BUS FEE,Education,synthetic_demo
+COACHING CENTER FEE,Education,synthetic_demo
+CERTIFICATION EXAM PAYMENT,Education,synthetic_demo
+EDUCATION SOFTWARE LICENSE,Education,synthetic_demo
+LIBRARY MEMBERSHIP FEE,Education,synthetic_demo
+JUNIOR COLLEGE FEE,Education,synthetic_demo
+TRAINING WORKSHOP FEE,Education,synthetic_demo
+HOUSE RENT PAYMENT,Housing,synthetic_demo
+RENT PAID TO LANDLORD,Housing,synthetic_demo
+NOBROKER RENT TRANSFER,Housing,synthetic_demo
+SOCIETY MAINTENANCE CHARGES,Housing,synthetic_demo
+APARTMENT RENT MONTHLY,Housing,synthetic_demo
+PG RENT PAYMENT,Housing,synthetic_demo
+FLAT RENT TRANSFER,Housing,synthetic_demo
+MAINTENANCE CHARGES TOWER,Housing,synthetic_demo
+RENTAL PAYMENT OWNER,Housing,synthetic_demo
+VILLA RENT MONTHLY,Housing,synthetic_demo
+HOUSING MAINTENANCE BILL,Housing,synthetic_demo
+RESIDENTIAL RENT CREDIT,Housing,synthetic_demo
+SALARY CREDIT APRIL,Income,synthetic_demo
+MONTHLY SALARY PAYMENT,Income,synthetic_demo
+PAYROLL CREDIT COMPANY,Income,synthetic_demo
+SALARY TRANSFER EMPLOYER,Income,synthetic_demo
+STIPEND PAYMENT,Income,synthetic_demo
+SAL CREDIT JUNE,Income,synthetic_demo
+ANNUAL BONUS PAYROLL,Income,synthetic_demo
+EMPLOYEE SALARY DISBURSEMENT,Income,synthetic_demo
+MONTHLY INCOME CREDIT,Income,synthetic_demo
+COMPANY SALARY APRIL,Income,synthetic_demo
+INTERNSHIP STIPEND,Income,synthetic_demo
+SALARY REIMBURSEMENT CREDIT,Income,synthetic_demo
+PAYROLL TRANSFER JULY,Income,synthetic_demo
+WAGES PAYMENT,Income,synthetic_demo
+MUTUAL FUND SIP AUTO DEBIT,Investment,synthetic_demo
+ZERODHA BROKERAGE FUNDS,Investment,synthetic_demo
+GROWW MUTUAL FUND PURCHASE,Investment,synthetic_demo
+UPSTOX TRADING ACCOUNT,Investment,synthetic_demo
+NPS CONTRIBUTION PAYMENT,Investment,synthetic_demo
+PPF ACCOUNT DEPOSIT,Investment,synthetic_demo
+FIXED DEPOSIT BOOKING,Investment,synthetic_demo
+RECURRING DEPOSIT INSTALLMENT,Investment,synthetic_demo
+LIC PREMIUM PAYMENT,Insurance,synthetic_demo
+INSURANCE PREMIUM DEBIT,Insurance,synthetic_demo
+EQUITY SHARE PURCHASE,Investment,synthetic_demo
+SIP INSTALLMENT MF,Investment,synthetic_demo
+MUTUAL FUND LUMPSUM,Investment,synthetic_demo
+STOCK BROKING FUND TRANSFER,Investment,synthetic_demo
+BOND INVESTMENT PAYMENT,Investment,synthetic_demo
+UPI TRANSFER TO FRIEND,Transfer,synthetic_demo
+IMPS FUND TRANSFER SENT,Transfer,synthetic_demo
+NEFT TRANSFER SENT,Transfer,synthetic_demo
+RTGS FUND TRANSFER,Transfer,synthetic_demo
+SELF TRANSFER BETWEEN ACCOUNTS,Transfer,synthetic_demo
+CREDIT CARD PAYMENT,Credit Card Payment,synthetic_demo
+CC BILL PAYMENT,Credit Card Payment,synthetic_demo
+FUND TRANSFER TO RELATIVE,Transfer,synthetic_demo
+UPI PAYMENT TO CONTACT,Transfer,synthetic_demo
+BANK TRANSFER RECEIVED,Transfer,synthetic_demo
+ONLINE FUND TRANSFER,Transfer,synthetic_demo
+PAYMENT TO CREDIT CARD,Credit Card Payment,synthetic_demo
+TRANSFER TO SAVINGS ACCOUNT,Transfer,synthetic_demo
+UPI COLLECT PAYMENT,Transfer,synthetic_demo
+IMPS INWARD REMITTANCE,Transfer,synthetic_demo
+ATM WITHDRAWAL,Cash Withdrawal,synthetic_demo
+ATM WDL CASH,Cash Withdrawal,synthetic_demo
+CASH WITHDRAWAL BRANCH,Cash Withdrawal,synthetic_demo
+ATM CASH DISPENSED,Cash Withdrawal,synthetic_demo
+CASH WDL ATM,Cash Withdrawal,synthetic_demo
+ATM WITHDRAWAL HDFC,Cash Withdrawal,synthetic_demo
+CASH WITHDRAWAL ICICI ATM,Cash Withdrawal,synthetic_demo
+ATM CASH WITHDRAWAL,Cash Withdrawal,synthetic_demo
+BRANCH CASH WITHDRAWAL,Cash Withdrawal,synthetic_demo
+ATM WDL OUTSTATION,Cash Withdrawal,synthetic_demo
+CASH WDL SELF,Cash Withdrawal,synthetic_demo
+ATM TRANSACTION CASH,Cash Withdrawal,synthetic_demo
+BANK CHARGES QUARTERLY,Banking Charges,synthetic_demo
+SMS CHARGES MONTHLY,Banking Charges,synthetic_demo
+ANNUAL MAINTENANCE CHARGES,Banking Charges,synthetic_demo
+AMC DEBIT CARD,Banking Charges,synthetic_demo
+PROCESSING FEE LOAN,Banking Charges,synthetic_demo
+LATE PAYMENT PENALTY,Banking Charges,synthetic_demo
+NEFT CHARGES,Banking Charges,synthetic_demo
+IMPS CHARGES,Banking Charges,synthetic_demo
+DEBIT INTEREST CHARGE,Banking Charges,synthetic_demo
+SERVICE CHARGE ACCOUNT,Banking Charges,synthetic_demo
+BANK SERVICE FEE,Banking Charges,synthetic_demo
+CHEQUE RETURN CHARGES,Banking Charges,synthetic_demo
+MINIMUM BALANCE PENALTY,Banking Charges,synthetic_demo
+STATEMENT CHARGES,Banking Charges,synthetic_demo
+FEE DEBIT CARD REPLACEMENT,Banking Charges,synthetic_demo
+INDIGO AIRLINES TICKET,Travel,synthetic_demo
+AIR INDIA FLIGHT BOOKING,Travel,synthetic_demo
+VISTARA AIR TICKET,Travel,synthetic_demo
+MAKEMYTRIP HOTEL BOOKING,Travel,synthetic_demo
+GOIBIBO FLIGHT PAYMENT,Travel,synthetic_demo
+OYO HOTEL STAY,Travel,synthetic_demo
+AIRBNB HOLIDAY RENTAL,Travel,synthetic_demo
+CLEARTRIP AIR BOOKING,Travel,synthetic_demo
+SPICEJET FLIGHT FARE,Travel,synthetic_demo
+HOTEL ACCOMMODATION PAYMENT,Travel,synthetic_demo
+TRAVEL AGENCY PACKAGE,Travel,synthetic_demo
+RESORT BOOKING PAYMENT,Travel,synthetic_demo
+TRAIN TICKET IRCTC,Travel,synthetic_demo
+INTERNATIONAL FLIGHT BOOKING,Travel,synthetic_demo
+HOLIDAY PACKAGE PAYMENT,Travel,synthetic_demo
+POS PURCHASE 1234,Other,synthetic_demo
+UNKNOWN TRANSACTION DEBIT,Other,synthetic_demo
+MISC DEBIT ENTRY,Other,synthetic_demo
+SERVICE PAYMENT REFERENCE,Other,synthetic_demo
+UNIDENTIFIED CREDIT,Other,synthetic_demo
+GENERIC POS ENTRY,Other,synthetic_demo
+BANK ENTRY NOT CLASSIFIED,Other,synthetic_demo
+MISCELLANEOUS PAYMENT,Other,synthetic_demo
+CASH DEPOSIT COUNTER,Income,synthetic_demo
+NO DESCRIPTION AVAILABLE,Other,synthetic_demo
+ADJUSTMENT ENTRY,Other,synthetic_demo
+REFERENCE PAYMENT ONLY,Other,synthetic_demo
+MERCHANT REFUND CREDIT,Refund,synthetic_demo
+ORDER REFUND RECEIVED,Refund,synthetic_demo
+PAYMENT REVERSAL CREDIT,Refund,synthetic_demo
+CASHBACK CREDIT RECEIVED,Refund,synthetic_demo
+QUARTERLY INTEREST CREDITED,Income,synthetic_demo
+CLIENT PROJECT PAYMENT RECEIVED,Income,synthetic_demo
