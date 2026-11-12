@@ -103,6 +103,20 @@ TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
 
 The `pytesseract` Python package is installed by `requirements.txt`; the Tesseract executable is a separate system installation. If Tesseract is unavailable, LedgerLens reports a clear OCR error instead of silently producing an empty result.
 
+## Deploy on Streamlit Community Cloud
+
+Streamlit Community Cloud is the recommended deployment target for this project because the app is already a native Streamlit application and the repository contains the model artifact and sample data.
+
+1. Sign in to [share.streamlit.io](https://share.streamlit.io) with the GitHub account that owns the repository.
+2. Choose **Create app** and select **Deploy a public app from GitHub**.
+3. Set the repository to `jatinsinhsolanki0102-eng/LedgerLens-bank-statement-analyzer`, the branch to `main`, and the main file path to `app.py`.
+4. In advanced settings, select a Python 3.13 runtime if offered; otherwise use Python 3.12. The pinned dependencies and model are compatible with both.
+5. Deploy the app. No secrets or environment variables are required for the default configuration.
+
+The root `packages.txt` installs the system libraries needed for OpenCV and Tesseract OCR on the hosted Linux environment. If scanned-statement OCR is not required, Tesseract can be removed, but text-based PDFs need no system OCR package.
+
+Free Community Cloud apps sleep when idle and wake on the next visit. Export files are generated in memory and downloaded directly; they are not stored by the hosted app. As with local use, uploaded statements and downloaded exports contain sensitive financial data and should be handled through approved channels.
+
 ## Testing
 
 ```powershell
@@ -139,6 +153,7 @@ bank_statement_analyzer/
 |-- logs/.gitkeep
 |-- .env.example
 |-- .gitignore
+|-- packages.txt
 |-- pytest.ini
 |-- requirements.txt
 `-- README.md
